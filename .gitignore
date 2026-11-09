@@ -1,0 +1,38 @@
+# Environment secrets
+.env
+
+# Uploaded raw chat exports
+data/uploads/
+
+# ChromaDB persistent storage
+data/vector_db/
+
+# Cached persona profile (contains real data)
+data/persona_profile.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
