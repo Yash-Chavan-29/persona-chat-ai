@@ -4,6 +4,16 @@ A FastAPI backend that impersonates a real person's WhatsApp texting style using
 
 ---
 
+## 📸 Preview & API Walkthrough
+
+![Persona Chat AI Swagger UI](./docs/screenshot.png)
+
+![Persona Chat AI Demo](./docs/demo.gif)
+
+> 🎬 **[Watch Full API Walkthrough Video (WebM)](./docs/demo.webm)**
+
+---
+
 ## Features
 
 | Feature | Description |
